@@ -7,3 +7,4 @@
 - git push -u origin main
 
 - create a new branch **git checkout -b [name of the branch]**
+- chile
