@@ -7,6 +7,7 @@
 - git push -u origin main
 
 - create a new branch **git checkout -b [name of the branch]**
+
 - **git pull origin main** (updates the data locally with remote)
 - **git add .**
 - **git commit -m "message"**
