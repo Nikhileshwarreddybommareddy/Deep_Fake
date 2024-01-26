@@ -12,3 +12,4 @@
 - **git commit -m "message"**
 - **git push origin branchname**
 - then go to remote git and check and merge the request
+- chile
